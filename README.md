@@ -1,36 +1,18 @@
 <div align="center">
 
-## ✨ <span class="transition-text">Hello, I'm **Shivam Ardeshna** 👋</span>
+## ✨ Hello, I'm **Shivam Ardeshna** 👋
 
-#### <span class="transition-text">*Exploring the elegance where language meets vision, and intelligence comes alive.*</span>
 
-<span class="transition-text">🎓 B.Tech in Computer Engineering | Final Year</span><br>
-<span class="transition-text">🚀 Currently building **StratifyAI** – a real-time financial insight platform</span><br>
-<span class="transition-text">📚 Published researcher in deepfake detection & recommender systems</span><br>
-<span class="transition-text">💡 Active contributor to open-source (Hugging Face, Kaggle)</span><br>
-<span class="transition-text">🤖 Passionate about NLP, Computer Vision, and scalable ML systems</span><br>
-<span class="transition-text">📫 Reach me at: **ardeshnashivam12@gmail.com**</span>
+#### *Exploring the elegance where language meets vision, and intelligence comes alive.*
+
+🎓 B.Tech in Computer Engineering | Final Year  
+🚀 Currently building **StratifyAI** – a real-time financial insight platform  
+📚 Published researcher in deepfake detection & recommender systems  
+💡 Active contributor to open-source (Hugging Face, Kaggle)  
+🤖 Passionate about NLP, Computer Vision, and scalable ML systems  
+📫 Reach me at: **ardeshnashivam12@gmail.com**
 
 </div>
-
-<style>
-@keyframes slideIn {
-  0% {
-    transform: translateX(-100%);
-    opacity: 0;
-  }
-  100% {
-    transform: translateX(0);
-    opacity: 1;
-  }
-}
-
-.transition-text {
-  display: inline-block;
-  animation: slideIn 2s ease-out;
-  animation-delay: 0.5s;
-}
-</style>
 
 
 ---
