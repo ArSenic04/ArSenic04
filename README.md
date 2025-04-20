@@ -5,7 +5,7 @@
 
 #### *Exploring the elegance where language meets vision, and intelligence comes alive.*
 
-🎓 B.Tech in Computer Engineering at Charotar University of Science and Technology | Final Year
+🎓 B.Tech in Computer Engineering at Charotar University of Science and Technology | Final Year  
 📚 Published researcher in deepfake detection & recommender systems  
 💡 Active contributor to open-source (Hugging Face, Kaggle)  
 🤖 Passionate about NLP, Computer Vision, and scalable ML systems  
