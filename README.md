@@ -5,12 +5,12 @@
 
 #### *Exploring the elegance where language meets vision, and intelligence comes alive.*
 
-###🎓 B.Tech in Computer Engineering at Charotar University of Science and Technology | Final Year  
-###📚 Published researcher in deepfake detection & recommender systems  
-###💡 Active contributor to open-source (Hugging Face, Kaggle)  
-###🤖 Passionate about NLP, Computer Vision, and scalable ML systems  
-###🔬 Enthusiast in building AI-driven systems for real-world problems 
-###📫 Reach me at: **ardeshnashivam12@gmail.com**
+### 🎓 B.Tech in Computer Engineering at Charotar University of Science and Technology | Final Year  
+### 📚 Published researcher in deepfake detection & recommender systems  
+### 💡 Active contributor to open-source (Hugging Face, Kaggle)  
+### 🤖 Passionate about NLP, Computer Vision, and scalable ML systems  
+### 🔬 Enthusiast in building AI-driven systems for real-world problems 
+### 📫 Reach me at: **ardeshnashivam12@gmail.com**
 
 </div>
 
