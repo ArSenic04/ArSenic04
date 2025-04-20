@@ -42,13 +42,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ArSenic04&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArSenic04/ArSenic04/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArSenic04/ArSenic04/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ArSenic04/ArSenic04/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
