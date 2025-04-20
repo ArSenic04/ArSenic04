@@ -5,12 +5,12 @@
 
 #### *Exploring the elegance where language meets vision, and intelligence comes alive.*
 
-<p style="font-size: 12px;">🎓 B.Tech in Computer Engineering at Charotar University of Science and Technology | Final Year</p>
-<p style="font-size: 12px;">📚 Published researcher in deepfake detection & recommender systems</p>
-<p style="font-size: 12px;">💡 Active contributor to open-source (Hugging Face, Kaggle)</p>
-<p style="font-size: 12px;">🤖 Passionate about NLP, Computer Vision, and scalable ML systems</p>
-<p style="font-size: 12px;">🔬 Enthusiast in building AI-driven systems for real-world problems</p>
-<p style="font-size: 12px;">📫 Reach me at: <strong>ardeshnashivam12@gmail.com</strong></p>
+🎓 B.Tech in Computer Engineering at Charotar University of Science and Technology | Final Year  
+📚 Published researcher in deepfake detection & recommender systems  
+💡 Active contributor to open-source (Hugging Face, Kaggle)  
+🤖 Passionate about NLP, Computer Vision, and scalable ML systems  
+🔬 Enthusiast in building AI-driven systems for real-world problems  
+📫 Reach me at: **ardeshnashivam12@gmail.com**
 
 
 </div>
