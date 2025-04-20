@@ -2,7 +2,7 @@
 
 # ✨ Hello, I'm **Shivam Ardeshna** 👋
 
-#### *Turning real-world challenges into intelligent AI systems that bridge data, vision, and language.*
+#### *Exploring the elegance where language meets vision, and intelligence comes alive.*
 
 🎓 B.Tech in Computer Engineering | Final Year  
 🚀 Currently building **StratifyAI** – a real-time financial insight platform  
